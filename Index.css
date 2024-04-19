@@ -1,0 +1,125 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ffffff;
+    margin-bottom: 25px;
+    height: 49px;
+}
+
+div ul {
+    display: flex;
+    list-style-type: none;
+}
+
+ul li {
+    margin: 0px 50px;
+    color: #75c310;
+}
+
+.btn-top {
+    padding: 9px 18px;
+    border-radius: 27px;
+    border: none;
+    background: #75c310;
+    color: white;
+}
+
+header div h1 span {
+    color: #75c310;
+}
+
+.hero-btn {
+    background-color: #75c310;
+    padding: 12px 31px;
+    border: none;
+    color: white;
+    border-radius: 18px;
+    margin-top: 55px;
+    font-size: 16px;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.heading-first {
+    font-size: 75px;
+}
+
+h1 p {
+    font-size: 22px;
+    margin: 12px 0;
+}
+
+.hero-img {
+    margin-left: 200px;
+}
+
+.hero-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-1-hero-2 {
+    height: 412px;
+    margin-right: 326px;
+    margin-top: 30px;
+    width: 417px;
+}
+
+.heading-second {
+    font-size: 55px;
+}
+
+.heading-second span {
+    margin-left: 112px;
+}
+
+.approve {
+    margin-left: 117px;
+}
+
+.second-btn {
+    margin-left: 111px;
+    padding: 10px 31px;
+    border-radius: 20px;
+    border: none;
+    background: #63c463;
+    margin-top: 30px;
+    color: white;
+}
+
+
+
+
+/* the fresh section is started */
+
+.fresh-top {
+    display: flex;
+    justify-content: center;
+}
+
+.fresh-1-para {
+    display: flex;
+    justify-content: center;
+}
+
+.fresh-btn {
+    display: flex;
+    justify-content: center;
+}
